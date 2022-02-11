@@ -1,1 +1,1 @@
-![Ritesh Verma (1)](https://user-images.githubusercontent.com/73749372/153645298-08c0b4e2-f64a-4505-b20c-26e8bc6173f1.gif)
+![Ritesh Verma (2)](https://user-images.githubusercontent.com/73749372/153645960-3861fce5-6b35-4b60-8f60-3fb86841dae6.gif)
