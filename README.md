@@ -2,7 +2,6 @@
 
 ## Hello, I am Ritesh Verma 
 ## I’m currently learning Data Structure and Algorithm by JAVA/C++
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeurrritesh&label=Profile%20views&color=0e75b6&style=flat" alt="codeurrritesh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/riteshv55780658" target="blank"><img src="https://img.shields.io/twitter/follow/riteshv55780658?logo=twitter&style=for-the-badge" alt="riteshv55780658" /></a> </p>
