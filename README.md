@@ -26,5 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeurritesh&show_icons=true&locale=en" alt="codeurritesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeurritesh&" alt="codeurritesh" /></p>
-  [![swastik's github activity graph](https://activity-graph.herokuapp.com/graph?username=codeurritesh&theme=dracula)]
 
