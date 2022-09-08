@@ -14,9 +14,9 @@
 <a href="https://instagram.com/rizky._.001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizky._.001" height="30" width="40" /></a>
 
 <a href="https://www.hackerrank.com/_201500573_CS20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/_201500573_CS20" height="60" width="70" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/techieritesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/techieritesh/"height="60" width="70"/></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ritesh_006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ritesh_006" height="60" width="70"/></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/riteshponty/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/riteshponty/profile" height="60" width="70"/></a>
+<a href="https://www.leetcode.com/https://leetcode.com/techieritesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/techieritesh/" height="60" width="70" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/ritesh_006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ritesh_006" height="60" width="70" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/riteshponty/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/riteshponty/profile" height="60" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
