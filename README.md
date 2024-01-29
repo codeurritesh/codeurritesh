@@ -1,7 +1,7 @@
 ![Ritesh Verma (2)](https://user-images.githubusercontent.com/73749372/153645960-3861fce5-6b35-4b60-8f60-3fb86841dae6.gif)
 
 ## Hello, I am Ritesh Verma 
-## I’m currently learning Data Structure and Algorithm by JAVA/C++
+## I’m MERN Stack Developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeurritesh&label=Profile%20views&color=0e75b6&style=flat" alt="codeurritesh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/riteshv55780658" target="blank"><img src="https://img.shields.io/twitter/follow/riteshv55780658?logo=twitter&style=for-the-badge" alt="riteshv55780658" /></a> </p>
